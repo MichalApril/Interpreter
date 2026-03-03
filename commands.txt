@@ -1,0 +1,2 @@
+Move Podstawa 10 5
+Move Ramie1 2 10

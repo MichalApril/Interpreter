@@ -1,0 +1,16 @@
+*.o
+*.so
+*.la
+*.lo
+*.a
+.libs/
+.deps/
+autom4te.cache/
+config.status
+config.log
+interp4cmds
+interp
+*.tar.gz
+test_finalny/
+moj_program/
+
